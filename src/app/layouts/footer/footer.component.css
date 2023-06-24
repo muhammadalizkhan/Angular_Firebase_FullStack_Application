@@ -1,0 +1,19 @@
+.container{
+  height: 130px;
+  padding: 15px;
+  background-color: var(--nav-footer-color);
+    margin-top: 85vh !important;
+}
+
+.site-logo{
+  padding: 5px 20px;
+  border-radius: 20px;
+  background-color: black;
+  color: var(--primary-color);
+  font-size: larger;
+}
+
+nav-link{
+    color: var(--primary-color);
+    text-transform: uppercase;
+}

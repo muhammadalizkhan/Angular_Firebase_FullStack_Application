@@ -1,0 +1,8 @@
+header{
+  height: 100px;
+}
+.site-logo{
+  padding: 5px 20px;
+  color: rgb(248, 243, 243);
+  font-size: large;
+}
