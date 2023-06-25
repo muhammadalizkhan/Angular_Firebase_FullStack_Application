@@ -12,3 +12,35 @@ body{
   font-size: 12px;
   color: var(--body-text-color);
 }
+
+nav-link{
+  color: var(--primary-color);
+
+}
+.btn-theme{
+  height: 58px;
+  border: none;
+}
+
+.bg-secondary-theme{
+  background-color: var(--secondary-color);
+}
+
+.text-theme-primary{
+  color: var(--primary-color);
+}
+.shadow-effect{
+  border: none;
+  box-shadow: 0px 0px 33px -10px rgba(71, 114, 254, 0.3);
+}
+
+.bg-theme{
+  background-color: var(--primary-color);
+}
+
+input[type = text], input [type = email]{
+  height: 60px;
+  padding-left: 20px;
+  font-size: 13px;
+  width: 100px;
+}

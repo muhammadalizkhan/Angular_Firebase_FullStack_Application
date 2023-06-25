@@ -1,0 +1,10 @@
+.card{
+  max-width: 400px !important;
+  border: none;
+  box-shadow: 0px 0px 33px -10px rgba(71, 114, 254, 0.3);
+
+}
+/*
+.small{
+  padding: 4px;
+} */
