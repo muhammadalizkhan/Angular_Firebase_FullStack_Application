@@ -4,7 +4,6 @@
   "newProjectRoot": "projects",
   "projects": {
     "AngularNewsApp": {
-      "projectType": "application",
       "schematics": {},
       "root": "",
       
