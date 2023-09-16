@@ -6,7 +6,8 @@
     "AngularNewsApp": {
       "schematics": {},
       "root": "",
-      
+            "projectType": "application",
+
       "sourceRoot": "src",
       "prefix": "app",
       "architect": {
